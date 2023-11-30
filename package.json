@@ -37,10 +37,10 @@
   "dependencies": {
     "ast-query": "^1.0.1",
     "chalk": "^2.0.0",
-    "fs-extra": "^0.22.1",
-    "glob": "^5.0.15",
+    "fs-extra": "^1.0.0",
+    "glob": "^9.0.0",
     "lodash": "^4.17.21",
-    "yeoman-generator": "^5.0.0",
+    "yeoman-generator": "^6.0.0",
     "yosay": "^2.0.0"
   },
   "devDependencies": {
